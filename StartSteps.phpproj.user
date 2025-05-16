@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <NameOfLastUsedPHPPublishProfile>Start Steps</NameOfLastUsedPHPPublishProfile>
+    <RuntimePath>C:\Program Files\IIS Express\PHP\v8.4\php.exe</RuntimePath>
   </PropertyGroup>
 </Project>

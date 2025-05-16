@@ -4,5 +4,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <EnvName>PHPDev</EnvName>
+    <RootNamespace>StartSteps</RootNamespace>
+    <WebRoot />
+    <RuntimeVersion>8.4</RuntimeVersion>
   </PropertyGroup>
 </Project>
