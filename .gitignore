@@ -1,0 +1,11 @@
+# StartSteps/.gitignore
+# Ignore rules for Start Steps PHP project with MySQL, HTML, CSS and JS
+
+# Visual Studio Settings
+.vs
+
+# Apache Passwords
+.htpasswd
+
+# Temporary files
+*.tmp
